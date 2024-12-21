@@ -6,6 +6,8 @@ The Educational Content Co-Creation Platform is a decentralized application buil
 
 Contract Address
 0x76e3f297bD935CAF8591aaA03028Ff79e977396a
+![image](https://github.com/user-attachments/assets/35415f9f-9dfd-45b6-b242-9869dbda2533)
+
 
 Project Vision
 Our vision is to revolutionize educational content creation by fostering collaboration between educators and subject matter experts worldwide. By leveraging blockchain technology, we create a transparent, fair, and incentivized environment where quality educational content can be produced collectively, ensuring that all contributors are properly rewarded for their efforts.
